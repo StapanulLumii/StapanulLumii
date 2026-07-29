@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-Full-Stack Developer with 3+ years of experience building real-world software at **TinyMobileRobots**.
+Full-Stack Developer with 4+ years of experience building real-world software at **TinyMobileRobots**.
 I work across the full stack — from responsive UIs to robust backends — in an agile team shipping production-grade solutions.
 Passionate about clean code, creative problem-solving, and projects that blend technical depth with good design.
 
